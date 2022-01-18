@@ -1,0 +1,26 @@
+{
+  "name": "csv-salesforce",
+  "version": "1.0.0",
+  "description": "Tools for CSV Files",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/GregoriSoria/csv-salesforce"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "json2csv": "^5.0.6",
+    "node": "^17.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "csv",
+    "sales",
+    "salesforce"
+  ],
+  "author": "Grégori Sória",
+  "license": "ISC"
+}
